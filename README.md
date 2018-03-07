@@ -4,17 +4,17 @@ This contains the codes for all programming assignments for TCD-CS1010 in the Hi
 
 The Order of Assingment reads as follows:
 
-Week 1: 
+Week 1: Sieve of Eratosthenes 
 
-Week 2:
+Week 2: Noughts and Crosses
 
-Week 3: 
+Week 3: Lewis Carroll's Word-Links Puzzle Game
 
-Week 4: 
+Week 4: Chuck-a-Luck Dice Game
 
-Week 5: 
+Week 5: Rational Numbers
 
-Week 6: 
+Week 6: (No Assingment)
 
 Week 7: (No Assingment)
 
