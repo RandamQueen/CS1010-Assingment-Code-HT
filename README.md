@@ -4,15 +4,15 @@ This contains the codes for all programming assignments for TCD-CS1010 in the Hi
 
 The Order of Assingment reads as follows:
 
-Week 1: Sieve of Eratosthenes 
+Week 1: Sieve of Eratosthenes: Eratosthenes.java & SieveOfEratosthenes.java 
 
-Week 2: Noughts and Crosses
+Week 2: Noughts and Crosses: GameBoard.java & XAndO.java
 
-Week 3: Lewis Carroll's Word-Links Puzzle Game
+Week 3: Lewis Carroll's Word-Links Puzzle Game: LinkChecker.java & WordLinks.java
 
-Week 4: Chuck-a-Luck Dice Game
+Week 4: Chuck-a-Luck Dice Game: ChuckALuck.java
 
-Week 5: Rational Numbers
+Week 5: Rational Numbers: Rational.java & userInput.java
 
 Week 6: (No Assingment)
 
